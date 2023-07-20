@@ -1,0 +1,5 @@
+asyncio==3.4.3
+kazoo==2.9.0
+python-dotenv==1.0.0
+six==1.16.0
+websockets==11.0.3
